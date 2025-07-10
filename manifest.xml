@@ -6,7 +6,7 @@
            xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0"
            xsi:schemaLocation="http://schemas.microsoft.com/office/appforoffice/1.1 OfficeAppManifest.xsd">
 
-  <Id>f04b9c29-b0d1-406c-9a70-hellohello123456</Id>
+  <Id>c3c42a3b-dcd5-4ed8-83c4-2a3a12caa32b</Id>
   <Version>1.0.0.0</Version>
   <ProviderName>Your Name</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
