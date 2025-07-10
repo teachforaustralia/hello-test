@@ -12,7 +12,7 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Hello Add-in"/>
   <Description DefaultValue="A simple Outlook add-in that opens a hello pane."/>
-  <IconUrl DefaultValue="https://teachforaustralia.github.io/outlook-hello-test/assets/icon-32.png"/>
+  <IconUrl DefaultValue="https://teachforaustralia.github.io/outlook-hello-test/icon-32.png"/>
   <SupportUrl DefaultValue="https://teachforaustralia.github.io/outlook-hello-test"/>
 
   <Hosts>
@@ -72,7 +72,7 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="icon32" DefaultValue="https://teachforaustralia.github.io/outlook-hello-test/assets/icon-32.png"/>
+        <bt:Image id="icon32" DefaultValue="https://teachforaustralia.github.io/outlook-hello-test/icon-32.png"/>
       </bt:Images>
       <bt:Urls>
         <bt:Url id="taskpaneUrl" DefaultValue="https://teachforaustralia.github.io/outlook-hello-test/taskpane.html"/>
